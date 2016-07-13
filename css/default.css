@@ -1,0 +1,10 @@
+#bioinfo {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+#profile-image {
+  max-width: 145px;
+  border-radius: 5px;
+}
