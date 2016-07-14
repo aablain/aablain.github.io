@@ -5,7 +5,9 @@ html {
 
 body {
   background-image: url("../images/ruby.png");
-  background-size: cover;
+  background-size: 400px;
+  background-repeat: no-repeat;
+  background-position: center center;
   height: 100%;
   width: 100%;
 }
@@ -24,4 +26,14 @@ body {
 #other-image {
   padding-top: 50px;
   max-width:500px;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.pagewrapper{
+  height: 100%;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.5);
 }
